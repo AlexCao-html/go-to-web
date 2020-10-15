@@ -1,1 +1,1 @@
-# go-to-web.io
+# go-to-web
